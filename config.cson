@@ -1,0 +1,9 @@
+"*":
+  "exception-reporting":
+    userId: "0ae927e2-d1ff-5be1-4ccd-1b7c144553f1"
+  minimap:
+    plugins:
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+  welcome:
+    showOnStartup: false
